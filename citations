@@ -1,1 +1,14 @@
 https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
+http://scikit-learn.org/stable/modules/feature_selection.html
+
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+https://datascience.stackexchange.com/questions/19072/stopwords-removal-surprisingly-decreases-accuracy-of-naive-bayes-model
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+
+https://stackoverflow.com/questions/22603332/stemming-in-text-classification-degrades-accuracy
+
+
+https://stackoverflow.com/questions/36542993/when-are-uni-grams-more-suitable-than-bi-grams-or-higher-n-grams
+https://www.quora.com/Why-does-Naive-Bayes-classifier-works-so-well-with-text-data
+https://stats.stackexchange.com/questions/23490/why-do-naive-bayesian-classifiers-perform-so-well
+https://stats.stackexchange.com/questions/273986/why-does-multinomial-naive-bayes-work-better-than-svm-and-logistic-regression-on
